@@ -7,6 +7,7 @@
     "type": "git"
   },
   "main": "dist/vue-train-timetable.cjs.js",
+  "module": "src/index.js",
   "files": [
     "dist"
   ],
